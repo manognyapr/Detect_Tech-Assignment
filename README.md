@@ -40,12 +40,18 @@ Step 4: Running Application
 Note: Check if your Tesseract ocr is correctly installed.
 
 ## Directory Structure
+
 .
 ├── main.py
+
 ├── requirements.txt
+
 ├── templates
+
 │   ├── index.html
+
 │   └── result.html
+
 └── README.md
 
 
